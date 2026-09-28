@@ -16,8 +16,8 @@ endobj
 endobj
 3 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ]
-/Contents 13 0 R
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 13 0 R ]
+/Contents 14 0 R
 /MediaBox [ 0 0 612 792 ]
 /Parent 2 0 R
 /Resources <<
@@ -51,7 +51,7 @@ endobj
 /URI (https\072\057\057github\056com\057jcalifornia123\055commits)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 174.2895 700.2 310.3245 711 ]
+/Rect [ 153.6075 700.2 289.6425 711 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -64,7 +64,7 @@ endobj
 /URI (https\072\057\057jack\055codet\055human\055performance\056vercel\056app)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 50 273.375 273.578 285.375 ]
+/Rect [ 50 287.675 273.578 299.675 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -73,7 +73,7 @@ endobj
 <<
 /Type /Annot
 /Subtype /Link
-/Rect [ 317.6685 700.2 437.7105 711 ]
+/Rect [ 296.9865 700.2 417.0285 711 ]
 /Border [ 0 0 0 ]
 /A <<
 /S /URI
@@ -85,7 +85,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 6541
+/Length 6534
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -99,7 +99,7 @@ Q
 q
 1 0 0 1 50 711 cm
 q
-BT 1 0 0 1 0 3 Tm 149.3095 0 Td 12 TL /F1 9 Tf 0 0 0 rg (jcalifornia123@gmail.com) Tj ( | 949-395-0333 | Miami, FL) Tj T* -149.3095 0 Td ET
+BT 1 0 0 1 0 3 Tm 160.0600 0 Td 12 TL /F1 9 Tf 0 0 0 rg (jxc3221@miami.edu) Tj ( | 949-395-0333 | Miami, FL) Tj T* -160.0600 0 Td ET
 Q
 Q
 q
@@ -396,7 +396,19 @@ endobj
 endobj
 13 0 obj
 <<
-/Length 6534
+/Type /Annot
+/Subtype /Link
+/Rect [ 424.3725 700.2 458.3925 711 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057www\056linkedin\056com\057in\057jack\055codet\05516321a343\057)
+>>
+>>
+endobj
+14 0 obj
+<<
+/Length 6470
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -416,7 +428,7 @@ Q
 q
 1 0 0 1 50 699 cm
 q
-BT 1 0 0 1 0 3 Tm 124.2895 0 Td 12 TL /F1 9 Tf 0 0 0 rg (github.com/jcalifornia123-commits | jack-codet-portfolio.vercel.app) Tj T* -124.2895 0 Td ET
+BT 1 0 0 1 0 3 Tm 103.6075 0 Td 12 TL /F1 9 Tf 0 0 0 rg (github.com/jcalifornia123-commits | jack-codet-portfolio.vercel.app | LinkedIn) Tj T* -103.6075 0 Td ET
 Q
 Q
 q
@@ -494,7 +506,7 @@ Q
 q
 1 0 0 1 50 532 cm
 q
-BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Help implement feature and usability improvements across the app and website, working directly with) Tj T* 8 0 Td (founders and developers to turn user feedback into prioritized product changes.) Tj T* ET
+BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Research calorie tracking, dashboard views, and workout summaries; create example images and relay) Tj T* 8 0 Td (user feedback directly to founders and software engineers to inform improvements ahead of public release.) Tj T* ET
 Q
 Q
 q
@@ -525,32 +537,32 @@ Q
 q
 1 0 0 1 50 478.9 cm
 q
-BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Built and handed off a full-stack client portal for project tracking, billing visibility, and communication; the) Tj T* 8 0 Td (team is expanding it for deployment across multiple client companies.) Tj T* ET
+BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Built the initial client portal and collaborated with company developers to expand it into a version used by) Tj T* 8 0 Td (two customers for project tracking, billing visibility, and communication.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 50 446.8 cm
 q
-BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Created reusable starter repositories and standardized AI-assisted development guidelines used across) Tj T* 8 0 Td (multiple client projects, reducing repeated authentication, configuration, and application setup work.) Tj T* ET
+BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Created reusable starter repositories and development guidelines for client projects.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 414.7 cm
+1 0 0 1 50 429.0000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Integrated an open-source codebase-indexing tool into multiple client projects, enabling developers and AI) Tj T* 8 0 Td (coding assistants to locate relevant code and navigate unfamiliar repositories.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 382.6 cm
+1 0 0 1 50 396.9000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Connected Better Stack and Sentry to Linear, automatically turning production errors into actionable tickets) Tj T* 8 0 Td (with debugging context.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 375.1 cm
+1 0 0 1 50 389.4000 cm
 Q
 q
-1 0 0 1 50 358.1 cm
+1 0 0 1 50 372.4000 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -573,20 +585,20 @@ Q
 Q
 Q
 q
-1 0 0 1 50 329.5 cm
+1 0 0 1 50 343.8000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Supported inventory tracking, assembly, and order fulfillment for aerospace and commercial manufacturing) Tj T* 8 0 Td (customers; used Excel and shipment checks to maintain order accuracy.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 305.5 cm
+1 0 0 1 50 319.8000 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.8 Tm /F2 10.2 Tf 13 TL (PROJECTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 283.5 cm
+1 0 0 1 50 297.8000 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -609,57 +621,57 @@ Q
 Q
 Q
 q
-1 0 0 1 50 271.5 cm
+1 0 0 1 50 285.8000 cm
 q
 .14902 .298039 .447059 rg
 BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Public demo: jack-codet-human-performance.vercel.app) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 238.9 cm
+1 0 0 1 50 253.2000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Built and deployed a performance analytics platform connecting 4 APIs \(WHOOP, Strava, Canvas LMS, and) Tj T* 8 0 Td (Telegram\) with calendar data to track recovery, training, and academic workload.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 206.8 cm
+1 0 0 1 50 221.1000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Developed personalized readiness scoring to guide daily training intensity, with historical baselines and) Tj T* 8 0 Td -0.082769 Tw (missing-data handling; integrated the OpenAI API to turn free-text check-ins into validated, structured inputs.) Tj T* 0 Tw ET
 Q
 Q
 q
-1 0 0 1 50 174.7 cm
+1 0 0 1 50 189.0000 cm
 q
 BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Trained Python/scikit-learn regression models to explore fitness and recovery relationships, evaluating) Tj T* 8 0 Td (predictions on a chronological holdout set.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 142.6 cm
+1 0 0 1 50 156.9000 cm
 q
-BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Shipped cognitive-load tracking across the database, REST API, and React interface, with 19 automated) Tj T* 8 0 Td (tests; published an interactive demo with synthetic data.) Tj T* ET
+BT 1 0 0 1 10 18.1 Tm -8 0 Td 14.3 TL /F1 10.5 Tf 0 0 0 rg (\177 Implemented academic-workload tracking across the database, REST API, and React interface; published) Tj T* 8 0 Td (an interactive demo with synthetic data.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 118.6 cm
+1 0 0 1 50 132.9000 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.8 Tm /F2 10.2 Tf 13 TL (TECHNICAL SKILLS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 99.3 cm
+1 0 0 1 50 113.6000 cm
 q
 BT 1 0 0 1 0 3.8 Tm 14.3 TL /F2 10.5 Tf 0 0 0 rg (Languages:) Tj /F1 10.5 Tf ( Python, SQL, JavaScript, TypeScript, Java) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 85 cm
+1 0 0 1 50 99.3000 cm
 q
 BT 1 0 0 1 0 3.8 Tm 14.3 TL /F2 10.5 Tf 0 0 0 rg (Frameworks & Data:) Tj /F1 10.5 Tf ( React, Next.js, FastAPI, scikit-learn, SQLite, REST APIs, OpenAI API) Tj T* ET
 Q
 Q
 q
-1 0 0 1 50 70.7 cm
+1 0 0 1 50 85.0000 cm
 q
 BT 1 0 0 1 0 3.8 Tm 14.3 TL /F2 10.5 Tf 0 0 0 rg (Tools:) Tj /F1 10.5 Tf ( Git/GitHub, Railway, Sentry, Better Stack, Linear, Excel) Tj T* ET
 Q
@@ -669,28 +681,29 @@ Q
 endstream
 endobj
 xref
-0 14
+0 15
 0000000000 65535 f 
 0000000015 00000 n 
 0000000083 00000 n 
 0000000142 00000 n 
-0000000368 00000 n 
-0000000542 00000 n 
-0000000745 00000 n 
-0000000959 00000 n 
-0000001172 00000 n 
+0000000375 00000 n 
+0000000549 00000 n 
+0000000752 00000 n 
+0000000966 00000 n 
+0000001179 00000 n 
 0000007765 00000 n 
 0000007808 00000 n 
 0000007916 00000 n 
 0000008029 00000 n 
 0000008352 00000 n 
+0000008562 00000 n 
 trailer
 <<
-/Size 14
+/Size 15
 /Root 1 0 R
 /Info 12 0 R
 /ID [ (\360\202\270\354\372\037u\323\053\337\300\221\310\375\136\133) (\360\202\270\354\372\037u\323\053\337\300\221\310\375\136\133) ]
 >>
 startxref
-14939
+15085
 %%EOF
